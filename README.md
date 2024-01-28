@@ -1,11 +1,28 @@
-# Java-Snake-Game
-A small snake game code in Java using Java.Swing library. 
+# Snake Game
+A simple Snake game implemented in Java using the Swing library.
 
-#Installation
-Use Intelj IDE to set-up the code and enjoy the game. 
+## Table of Contents
 
-You will also find this same code on Bro code youtube channel in addition I add some cool feature to this code and 
-kind of refresh it, added extra feature like: 
-#add method to restart game. 
+- [Getting Started](#YOU HAVE TO MAKE EXECUTABLE (.jar) FILE. YOU CAN GET HELP FROM "https://www.youtube.com/watch?v=jKlyHG-zbjk")
+- [How to Play](#YOU can use simle Up, Down, Right and left button to make movement.)
+- [Restart Feature](#you can restart your game by clicking "Enter" button after the game)
+
+## Features
+
+- Classic Snake game with a growing snake and food.
+- Simple graphics using Java Swing.
+- Keyboard controls for movement.
+
+### Prerequisites
+
+- Java installed on your machine.
+
+### Installing
+
+1. Clone the repository:
+
+   ```bash
+   git clone [https://github.com/Harbinder04/Java-Snake-Game]
+
 
 
